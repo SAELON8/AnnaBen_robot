@@ -81,7 +81,13 @@ async def start(client, message):
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/THEWARRIORS2bot?startgroup=true')
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/thewarriorsreal')
+            InlineKeyboardButton('𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ ', url='https://t.me/thewarriorsreal')
+            ],[
+            InlinekeyboardButton('Owner', url='https://t.me/ANKIT3690'),
+            InlinekeyboardButton('Owner', url='https://t.me/Saurav3BV6SA9LLElon7Musk')
+            ],[
+            InlinekeyboardButton('𝐃𝐄𝐅𝐄𝐍𝐃𝐄𝐑 𝐎𝐅 𝐓𝐇𝐄 𝐌𝐔𝐋𝐓𝐈𝐕𝐄𝐑𝐒𝐄', url='https://t.me/defenderofthemultiverse'),
+            InlinekeyboardButton('PORTAL TO MULTIVERSE', url='https://t.me/thecreatorofall')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
